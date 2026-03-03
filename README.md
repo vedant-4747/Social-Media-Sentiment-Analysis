@@ -1,4 +1,4 @@
-# 🗣️ PRODIGY_DS_04: Social Media Sentiment Analysis
+# 🗣️Social Media Sentiment Analysis
 
 ## 📄 Project Overview
 **Objective:** Analyze and visualize sentiment patterns in social media data to understand public opinion.
