@@ -1,7 +1,5 @@
 # 🗣️ PRODIGY_DS_04: Social Media Sentiment Analysis
 
-This repository contains my submission for **Task 03** of the Prodigy InfoTech Data Science Internship.
-
 ## 📄 Project Overview
 **Objective:** Analyze and visualize sentiment patterns in social media data to understand public opinion.
 **Dataset:** [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/jp71213/twitter-entity-sentiment-analysis).
